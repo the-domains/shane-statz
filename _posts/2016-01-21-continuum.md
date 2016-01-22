@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T03:04:02.221Z'
+datePublished: '2016-01-22T03:04:02.243Z'
 dateModified: '2016-01-22T01:31:46.045Z'
 title: Continuum
 author: []
