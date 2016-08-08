@@ -1,20 +1,9 @@
 name: Shane Statz
-favicon: null
 layout_spectrum: 0.74704
 typography_spectrum: 0.74549
-title: Shane Statz
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+cta: {}
+analytics: {}
+opengraph: {}
 color:
   brandColors:
     - '#000000'
@@ -27,3 +16,4 @@ color:
   saturation: 0.0625
   rhythmicContrast: 0.5
 purpose: []
+title: Shane Statz
