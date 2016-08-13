@@ -4,8 +4,15 @@
         <description><![CDATA[Shane Statz]]></description>
         <link>http://shanestatz.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 01:47:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2016 17:16:43 GMT</lastBuildDate>
         <atom:link href="http://shanestatz.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Music]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e42fd57c-34e0-41d0-b5a1-4798a43043c6.jpg">]]></description>
+            <link>http://shanestatz.com/music/index.html</link>
+            <guid isPermaLink="false">c802c8a2-dd79-47ea-b7e7-c5ff22eef646</guid>
+            <pubDate>Sat, 13 Aug 2016 17:16:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Schedule]]></title>
             <description><![CDATA[<article><h1>Schedule</h1><p>http://www.calgaryjazzorchestra.com/</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd518087-5883-4500-9584-2ef4d66f51a3.jpg"></article>]]></description>
