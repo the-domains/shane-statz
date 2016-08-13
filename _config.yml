@@ -1,7 +1,7 @@
 name: Shane Statz
 favicon: null
-layout_spectrum: 0.4991
-typography_spectrum: 0.25
+layout_spectrum: 0.9704552674666047
+typography_spectrum: 0.23965023853816092
 title: Shane Statz
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#6f7b7d'
     - '#6d4e12'
     - '#d2b960'
-  brandStrength: 0.8319167322479188
-  lightness: 0.4742061332799494
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 0.9632474156096578
+  lightness: 0.3115666371304542
+  saturation: 0.5828139814548194
+  rhythmicContrast: 0.14006863627582788
 purpose: []
