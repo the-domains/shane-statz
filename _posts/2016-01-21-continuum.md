@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-22T03:04:02.243Z'
-dateModified: '2016-01-22T01:31:46.045Z'
-title: Continuum
+description: Johnny Summers- trumpet
+datePublished: '2016-08-25T04:52:49.822Z'
+dateModified: '2016-08-25T04:32:37.575Z'
+title: ''
 author: []
 sourcePath: _posts/2016-01-21-continuum.md
-published: true
+via: {}
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+starred: false
 url: continuum/index.html
 _type: Article
 
@@ -33,8 +33,6 @@ _type: Article
 [Kodi Hutchinson][3]- bass
 
 Jon May - drums
-
-# 
 
 Continuum is an exciting new Jazz quintet led by saxophonist Shane Statz, featuring original music composed through the lineage of Jazz.
 
