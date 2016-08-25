@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-25T05:10:15.977Z'
+datePublished: '2016-08-25T05:52:48.324Z'
 sourcePath: _posts/2016-01-21-continuum.md
-inFeed: true
+inFeed: false
 authors: []
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-25T05:10:15.630Z'
+dateModified: '2016-08-25T05:52:47.958Z'
 title: Continuum
 publisher: {}
 description: Shane Statz- saxophone
@@ -15,7 +15,7 @@ inLanguage: null
 inNav: true
 starred: false
 url: continuum/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2530dae91a7d67bf65bda2361aef19c2a6726c09.jpg)
