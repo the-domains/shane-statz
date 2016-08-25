@@ -4,8 +4,15 @@
         <description><![CDATA[Shane Statz]]></description>
         <link>http://shanestatz.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 04:52:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 04:52:40 GMT</lastBuildDate>
         <atom:link href="http://shanestatz.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Teaching]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e2d12e3-ae71-4d08-836d-0616b6aa5c0c.jpg">]]></description>
+            <link>http://shanestatz.com/teaching/index.html</link>
+            <guid isPermaLink="false">fef4139e-d668-48b8-81af-7449927bcf93</guid>
+            <pubDate>Thu, 25 Aug 2016 04:52:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Schedule]]></title>
             <description><![CDATA[<article><h1>Schedule</h1><p>Oct 16th, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd518087-5883-4500-9584-2ef4d66f51a3.jpg"></article>]]></description>
