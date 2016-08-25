@@ -1,7 +1,18 @@
+layout_spectrum: 0.2283221345860511
+typography_spectrum: 0.8285800705198199
+color:
+  brandColors:
+    - '#36362C'
+    - '#5D917D'
+    - '#A8AD80'
+    - '#E6D4A7'
+    - '#825534'
+  brandStrength: 0.13492142246104777
+  lightness: 0.803338821278885
+  saturation: 0.06742546451278031
+  rhythmicContrast: 0.6833596606738865
 name: Shane Statz
 favicon: null
-layout_spectrum: 0.9704552674666047
-typography_spectrum: 0.23965023853816092
 title: Shane Statz
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#fcf2e8'
-    - '#6f7b7d'
-    - '#6d4e12'
-    - '#d2b960'
-  brandStrength: 0.9632474156096578
-  lightness: 0.3115666371304542
-  saturation: 0.5828139814548194
-  rhythmicContrast: 0.14006863627582788
 purpose: []
