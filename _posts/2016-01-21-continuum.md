@@ -1,27 +1,25 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: Johnny Summers- trumpet
-datePublished: '2016-08-25T04:52:49.822Z'
-dateModified: '2016-08-25T04:32:37.575Z'
-title: ''
-author: []
+datePublished: '2016-08-25T05:10:15.977Z'
 sourcePath: _posts/2016-01-21-continuum.md
-via: {}
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-25T05:10:15.630Z'
+title: Continuum
+publisher: {}
+description: Shane Statz- saxophone
+inLanguage: null
+inNav: true
 starred: false
 url: continuum/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2530dae91a7d67bf65bda2361aef19c2a6726c09.jpg)
+
 # Continuum
 
 [Shane Statz][0]- saxophone
@@ -37,7 +35,6 @@ Jon May - drums
 Continuum is an exciting new Jazz quintet led by saxophonist Shane Statz, featuring original music composed through the lineage of Jazz.
 
 We love so many different kinds of Jazz that we have composed music with inspiration ranging from Louis Armstrong to Chris Potter. Stay tuned for more.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95428d2c-cf3f-4136-8c27-053ff84a15d4.jpg)
 
 [0]: http://www.shanestatz.com/
 [1]: http://johnnysummers.com/
