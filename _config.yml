@@ -1,5 +1,5 @@
-layout_spectrum: 0.2283221345860511
-typography_spectrum: 0.8285800705198199
+layout_spectrum: 0.6373320680577308
+typography_spectrum: 0.07040968723595142
 color:
   brandColors:
     - '#36362C'
@@ -7,10 +7,10 @@ color:
     - '#A8AD80'
     - '#E6D4A7'
     - '#825534'
-  brandStrength: 0.13492142246104777
-  lightness: 0.803338821278885
-  saturation: 0.06742546451278031
-  rhythmicContrast: 0.6833596606738865
+  brandStrength: 0.5604153785388917
+  lightness: 0.2034840672276914
+  saturation: 0.8255986443255097
+  rhythmicContrast: 0.48048098338767886
 name: Shane Statz
 favicon: null
 title: Shane Statz
